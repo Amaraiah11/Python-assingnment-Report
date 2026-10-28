@@ -1,7 +1,7 @@
 # 📊 Python Technical Analysis Portfolio — Computational Methodologies & Reports
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0C4A6E,0284C7,38BDF8&height=220&section=header&text=Python%20Technical%20Analysis&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Comprehensive%20Programming%20Methodologies%20%26%20Applied%20Reports&descSize=16&descAlignY=60&descAlign=50" width="100%" alt="Python Technical Analysis Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0C4A6E,50:0284C7,100:38BDF8&customColorList=0C4A6E,0284C7,38BDF8&height=220&section=header&text=Python%20Technical%20Analysis&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Comprehensive%20Programming%20Methodologies%20%26%20Applied%20Reports&descSize=15&descAlignY=60&descAlign=50" width="100%" alt="Python Technical Analysis Banner" />
 </p>
 
 <p align="center">
@@ -143,5 +143,5 @@ Contributions, bug reports, and architectural discussions are welcome!
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0C4A6E,0284C7,38BDF8&height=100&section=footer" width="100%" alt="Footer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0C4A6E,50:0284C7,100:38BDF8&customColorList=0C4A6E,0284C7,38BDF8&height=100&section=footer" width="100%" alt="Footer Banner" />
 </p>
